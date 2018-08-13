@@ -192,6 +192,14 @@ h1,h2,h3,h4,h5,h6{
 	background-color:#3CB371
 }
 
+#organizacao{text-align: center;}
+.tg  {border:none; margin-left: auto; margin-right: auto;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border:none; text-align: center;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border:none;overflow:hidden;word-break:normal;}
+.tg .tg-cpu2{border:none;vertical-align:top}
+.tg .tg-mqa1{font-weight:bold;border:none;text-align:center;vertical-align:top}
+.tg .tg-semqui{width: 30px; border:none;}
+
 @media (min-width:768px){
 .navbar-default{
 	background-color:rgba(94,94,94,0.2);
